@@ -1,0 +1,13 @@
+C:\Users\thiag\source\repos\ExercicioEmpregadoCLT-HORISTA\ExercicioEmpregadoCLT-HORISTA\obj\Debug\netcoreapp3.1\ExercicioEmpregadoCLT-HORISTA.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\ExercicioEmpregadoCLT-HORISTA\ExercicioEmpregadoCLT-HORISTA\obj\Debug\netcoreapp3.1\ExercicioEmpregadoCLT-HORISTA.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\ExercicioEmpregadoCLT-HORISTA\ExercicioEmpregadoCLT-HORISTA\obj\Debug\netcoreapp3.1\ExercicioEmpregadoCLT-HORISTA.AssemblyInfo.cs
+C:\Users\thiag\source\repos\ExercicioEmpregadoCLT-HORISTA\ExercicioEmpregadoCLT-HORISTA\obj\Debug\netcoreapp3.1\ExercicioEmpregadoCLT-HORISTA.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\ExercicioEmpregadoCLT-HORISTA\ExercicioEmpregadoCLT-HORISTA\bin\Debug\netcoreapp3.1\ExercicioEmpregadoCLT-HORISTA.exe
+C:\Users\thiag\source\repos\ExercicioEmpregadoCLT-HORISTA\ExercicioEmpregadoCLT-HORISTA\bin\Debug\netcoreapp3.1\ExercicioEmpregadoCLT-HORISTA.deps.json
+C:\Users\thiag\source\repos\ExercicioEmpregadoCLT-HORISTA\ExercicioEmpregadoCLT-HORISTA\bin\Debug\netcoreapp3.1\ExercicioEmpregadoCLT-HORISTA.runtimeconfig.json
+C:\Users\thiag\source\repos\ExercicioEmpregadoCLT-HORISTA\ExercicioEmpregadoCLT-HORISTA\bin\Debug\netcoreapp3.1\ExercicioEmpregadoCLT-HORISTA.runtimeconfig.dev.json
+C:\Users\thiag\source\repos\ExercicioEmpregadoCLT-HORISTA\ExercicioEmpregadoCLT-HORISTA\bin\Debug\netcoreapp3.1\ExercicioEmpregadoCLT-HORISTA.dll
+C:\Users\thiag\source\repos\ExercicioEmpregadoCLT-HORISTA\ExercicioEmpregadoCLT-HORISTA\bin\Debug\netcoreapp3.1\ExercicioEmpregadoCLT-HORISTA.pdb
+C:\Users\thiag\source\repos\ExercicioEmpregadoCLT-HORISTA\ExercicioEmpregadoCLT-HORISTA\obj\Debug\netcoreapp3.1\ExercicioEmpregadoCLT-HORISTA.dll
+C:\Users\thiag\source\repos\ExercicioEmpregadoCLT-HORISTA\ExercicioEmpregadoCLT-HORISTA\obj\Debug\netcoreapp3.1\ExercicioEmpregadoCLT-HORISTA.pdb
+C:\Users\thiag\source\repos\ExercicioEmpregadoCLT-HORISTA\ExercicioEmpregadoCLT-HORISTA\obj\Debug\netcoreapp3.1\ExercicioEmpregadoCLT-HORISTA.genruntimeconfig.cache
